@@ -5,7 +5,7 @@ public class Github_push_pull {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		char ch = 'c';
+		char ch = 'u';
 
 		switch (ch) {
 		case 'a':
